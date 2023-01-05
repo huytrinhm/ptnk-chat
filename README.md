@@ -9,4 +9,4 @@ Try it out at: [PTNK Chat](https://m.me/ptnk.chat.2)
 * ✅ React to messages
 
 # Screenshots
-(to be updated)
+<img width="700" src="https://raw.githubusercontent.com/huytrinhm/ptnk-chat/master/screenshots/ptnk-chat.png">
